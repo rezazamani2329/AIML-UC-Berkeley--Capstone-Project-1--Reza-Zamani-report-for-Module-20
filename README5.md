@@ -1,6 +1,7 @@
 # Big Picture of the Project and its process:  
     
 
+<span style="color:red">This text is red</span>
 
 ### 1- Using AIML to evaluate marketing strategy
 
